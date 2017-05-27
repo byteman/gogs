@@ -1,3 +1,8 @@
-# My Awesome Book
+# 项目的驱动类型
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+gogs是一种业务靠web请求驱动的类型，程序启动后
+
+
+
